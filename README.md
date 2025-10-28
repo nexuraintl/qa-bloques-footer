@@ -1,2 +1,3 @@
 # qa-bloques-footer
-Este es el repositorio espejo de qa-bloques-footer del Azure 
+Este es el repositorio espejo de mod-bloques-footer del Azure del proyecto NEXURA PLATFORM MICROSERVICIOS
+ 
